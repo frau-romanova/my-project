@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: grey;
+  padding: 10px;
+}
+
+h1 {
+  color: black;
+}
+
+ul {
+  list-style: none;
+}
+
